@@ -12,7 +12,7 @@ const portfolioData = {
     phone: "780-777-7311",
     photo: graduationPhoto,
     heroBackground: heroBackground,
-    resumeUrl: "/resume.pdf",
+    resumeUrl: "/Resume_Portfolio.pdf",
     summary:
       "I am a recent Computer Science graduate eager to begin my career in the industry. I have been actively working on side projects to enhance my skills and build a strong portfolio. My goal is to join a company where I can apply my knowledge while learning and growing under the guidance of experienced peers and supervisors. I bring a fresh perspective, a strong willingness to learn, and the adaptability to thrive in a role while aligning with a company's specifications and values.",
   },
