@@ -24,11 +24,7 @@ const portfolioData = {
       url: "https://www.linkedin.com/in/james-rota-034a57149",
       icon: "linkedin",
     },
-    {
-      label: "Portfolio",
-      url: "https://jmsrota.github.io/GitHub-portfolio",
-      icon: "globe",
-    },
+    
     { label: "Email", url: "mailto:jmsrota@gmail.com", icon: "mail" },
   ],
 
