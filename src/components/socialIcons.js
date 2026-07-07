@@ -1,9 +1,8 @@
-import { Globe, Mail } from "lucide-react";
-import { GithubIcon, LinkedinIcon } from "./BrandIcons";
+import { Globe, Mail, Github, Linkedin } from "lucide-react";
 
 const socialIconMap = {
-  github: GithubIcon,
-  linkedin: LinkedinIcon,
+  github: Github,
+  linkedin: Linkedin,
   globe: Globe,
   mail: Mail,
 };
